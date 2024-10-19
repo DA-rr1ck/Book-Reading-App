@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="email_title">Nhập Email</string>
+    <string name="email">Email</string>
+    <string name="password_title">Nhập mật khẩu</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
