@@ -1,3 +1,3 @@
 # Book-Reading-App
 
-Simple book app for Android devices, using Java, NestJS and MongoDB
+Simple book app for Android devices, using Java, Kotlin, Jetpack Compose and a prebuilt API.
